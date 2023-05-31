@@ -1,4 +1,6 @@
-## Olá! Eu sou Douglas William da Silva 🖐️
+## Olá! Eu sou o Douglas William da Silva 🖐️
+
+## Bora aprender Junto Comigo?
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -19,6 +21,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por poder ajudar e simplicar a vida das pessoas.
+Apaixonado por tecnologia, educação e por poder ajudar e simplificar a vida das pessoas.
 
 
